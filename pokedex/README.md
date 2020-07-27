@@ -1,0 +1,1 @@
+Pokedex desenvolvida em HTML, CSS e JS.
